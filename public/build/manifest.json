@@ -1,0 +1,7 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_axios_index_js-node_modules_core-js_modules_es_array_map_js-node_modules-f9690b.js": "/build/vendors-node_modules_axios_index_js-node_modules_core-js_modules_es_array_map_js-node_modules-f9690b.js",
+  "build/vendors-node_modules_core-js_modules_es_function_bind_js-node_modules_core-js_modules_es_obje-41b05d.js": "/build/vendors-node_modules_core-js_modules_es_function_bind_js-node_modules_core-js_modules_es_obje-41b05d.js"
+}
